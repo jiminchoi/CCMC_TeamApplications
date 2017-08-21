@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E63BEB16-71FB-4761-AAF6-44EE6F53C6C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="studentsInfoSystemForCCMC/UserInformationController.cs">
+    <Files>
+      <File FileName="studentsInfoSystemForCCMC/Main.storyboard" />
+      <File FileName="studentsInfoSystemForCCMC/UserInformationController.cs" Line="40" Column="13" />
+      <File FileName="studentsInfoSystemForCCMC/UserInfo.cs" Line="38" Column="44" />
+      <File FileName="studentsInfoSystemForCCMC/ViewController.cs" Line="112" Column="19" />
+      <File FileName="studentsInfoSystemForCCMC/TimeTableViewController.cs" Line="493" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.studentsInfoSystemForCCMC PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+</Properties>

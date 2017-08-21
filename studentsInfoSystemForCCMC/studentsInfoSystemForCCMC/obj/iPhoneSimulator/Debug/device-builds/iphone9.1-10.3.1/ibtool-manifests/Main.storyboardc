@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict/>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict>
+		<key>2052</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>2052</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>2419</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>2419</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>245</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>245</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>258</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>258</string>
+				</array>
+				<key>message</key>
+				<string>“Add Controller“ is unreachable because it has no entry points, and no identifier for runtime access via -[UIStoryboard instantiateViewControllerWithIdentifier:].</string>
+				<key>type</key>
+				<string>IBUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+		<key>69</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>69</string>
+				</array>
+				<key>message</key>
+				<string>“時間割“ is unreachable because it has no entry points, and no identifier for runtime access via -[UIStoryboard instantiateViewControllerWithIdentifier:].</string>
+				<key>type</key>
+				<string>IBUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
